@@ -1,7 +1,7 @@
 
 # Carousel Slideshow
 
-A carousel/slideshow create with my best 6 different images.
+A carousel/slideshow created with my best 6 different images.
 
 ## Features
 
@@ -11,7 +11,7 @@ A carousel/slideshow create with my best 6 different images.
 - when the next icon on the last image is clicked, it should show the first image.
 - when the previous icon on the first image is clicked, it should show the last image.
 
-  - Live Link :: [Go Live]()
+  - Live Link :: [Go Live](https://iamnaeto.github.io/carousel-slideshow/)
 
 ## Author: Charles Obimnaeto Egesionu ##
 

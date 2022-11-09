@@ -7,7 +7,7 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    background: linear-gradient(150deg, #8287A4, #F65F15);
+    background-color: #8287A4;
     background-image: url(images/background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
